@@ -8,5 +8,4 @@ age = input("How old are you? ")
 location = input("Where do you live? ")
 
 # Print personalized message
-print("Hello Ella, you are 22 years old and live in Nairobi.")
-
+print("Hello {name}, you are {age} years old and live in {location}.")
